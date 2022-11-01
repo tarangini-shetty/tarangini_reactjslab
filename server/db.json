@@ -174,6 +174,13 @@
       "price": 100,
       "setDate": "2022-10-30",
       "id": 25
+    },
+    {
+      "payeeName": "Rahul",
+      "product": "food",
+      "price": 92,
+      "setDate": "2022-11-01",
+      "id": 26
     }
   ],
   "users": [

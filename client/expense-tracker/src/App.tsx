@@ -11,7 +11,7 @@ function App() {
       {/* <h1>Expense tracker coming up</h1> */}
       <Router>
         <Routes>
-          <Route path='/' element={< ExpenseTracker/>}></Route>
+          <Route path='/' element={< ExpenseTracker onClose={()=>{}} onTrue={()=>{}}/>}></Route>
           <Route path='/home' element={< ShowData/>}></Route>
         </Routes>
       </Router>
